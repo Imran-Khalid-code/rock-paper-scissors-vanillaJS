@@ -1,4 +1,4 @@
-const weapons = document.querySelectorAll('.play')
+const weapons = document.querySelectorAll('.weapon')
 const random = document.querySelector('.pressMe')
 const userDisplay = document.querySelector('#user-choice')
 const compDisplay = document.querySelector('#computer-choice')
